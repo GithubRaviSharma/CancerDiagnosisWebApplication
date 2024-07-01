@@ -25,41 +25,6 @@ Medicos is a web application designed to assist in the diagnosis of breast cance
 
 The application uses the Breast Cancer Wisconsin dataset, which is publicly available from the UCI Machine Learning Repository. The dataset consists of 30 numeric features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass, describing characteristics of the cell nuclei present in the image.
 
-## Features Description
-
-The 30 input parameters for the model are:
-
-1. **Mean Radius**
-2. **Mean Texture**
-3. **Mean Perimeter**
-4. **Mean Area**
-5. **Mean Smoothness**
-6. **Mean Compactness**
-7. **Mean Concavity**
-8. **Mean Concave Points**
-9. **Mean Symmetry**
-10. **Mean Fractal Dimension**
-11. **Radius Error**
-12. **Texture Error**
-13. **Perimeter Error**
-14. **Area Error**
-15. **Smoothness Error**
-16. **Compactness Error**
-17. **Concavity Error**
-18. **Concave Points Error**
-19. **Symmetry Error**
-20. **Fractal Dimension Error**
-21. **Worst Radius**
-22. **Worst Texture**
-23. **Worst Perimeter**
-24. **Worst Area**
-25. **Worst Smoothness**
-26. **Worst Compactness**
-27. **Worst Concavity**
-28. **Worst Concave Points**
-29. **Worst Symmetry**
-30. **Worst Fractal Dimension**
-
 ## Visualizations
 
 - **Histogram**: Displays the distribution of each feature.
