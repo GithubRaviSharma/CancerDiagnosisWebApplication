@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import shap
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.datasets import load_breast_cancer
