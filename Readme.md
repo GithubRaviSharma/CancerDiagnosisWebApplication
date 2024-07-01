@@ -39,10 +39,6 @@ The model used for prediction is based on the Random Forest Classifier from the 
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](license) file for details.
-
 ## Acknowledgements
 
 - Dr. William H. Wolberg, University of Wisconsin Hospitals, Madison
